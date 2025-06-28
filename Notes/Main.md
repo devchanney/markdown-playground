@@ -1,7 +1,7 @@
 # イメージをリンクしよう
 
-[!kanna](/Notes/Assets/kanna.jpg)
+![kanna](/Notes/Assets/kanna.jpg)
 
 可愛いカンナちゃん[^1]です。
 
-[^1] 本名は小林かんな。
+[^1]: 本名は小林かんな。
