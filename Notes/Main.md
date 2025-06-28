@@ -1,6 +1,6 @@
 # イメージをリンクしよう
 
-![kanna](/Notes/Assets/kanna.jpg)
+![kanna](./Assets/kanna.jpg)
 
 可愛いカンナちゃん[^1]です。
 
